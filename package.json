@@ -1,0 +1,33 @@
+{
+  "name": "gulp-afom-requirejs",
+  "version": "0.1.0",
+  "description": "Execute RequireJS optimization",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gulp",
+    "requirejs",
+    "amd",
+    "javascript",
+    "js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Cosma Damiano Trimboli",
+    "email": "damiano@afriendofmine.nl"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^0.6.3",
+    "gulp-util": "^3.0.3",
+    "requirejs": "^2.1.16"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
