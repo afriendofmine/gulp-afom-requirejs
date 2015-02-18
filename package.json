@@ -1,11 +1,11 @@
 {
   "name": "gulp-afom-requirejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Execute RequireJS optimization",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/afriendofmine/gulp-afom-requirejs"
   },
   "keywords": [
     "gulp",
@@ -19,7 +19,8 @@
   },
   "author": {
     "name": "Cosma Damiano Trimboli",
-    "email": "damiano@afriendofmine.nl"
+    "email": "damiano@afriendofmine.nl",
+    "url": "http://www.afriendofmine.nl"
   },
   "license": "MIT",
   "dependencies": {
